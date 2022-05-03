@@ -57,10 +57,11 @@ hr{
 .nav-brand{
     color: black;
    font-weight: bold;
+   text-align: left;
 }
 .navigation{
     background-color: var(--primary-color);
-    padding:1rem; 
+    padding:0.5rem; 
     border-bottom-left-radius: 1rem;
     
 }
