@@ -40,10 +40,17 @@ hr{
     border: 1px solid var(--primary-color);
     border-radius: 2rem;
     padding: 0.5rem 1rem;
-    text-decoration: none;
-
-    /** list **/
+    text-decoration: none; 
 }
+.secondary-link-pro{
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none; 
+    margin: 20px;
+}
+    /** list **/
 .list-non-bullet{
     list-style: none;
 }
@@ -112,6 +119,9 @@ hr{
 .ow {
     background-color: var(--off-white);
 }
+
+/* footer */
+
 .footer{
     background-color: var(--primary-color);
     padding: 1rem 0rem;
